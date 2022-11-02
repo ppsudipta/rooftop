@@ -67,11 +67,11 @@ return [
   can be found in url https://documenter.getpostman.com/view/3378051/2s8YRpEW9P
 
 
- <img src="[https://ibb.co/1fm3JwF]" height="100px">
+ <img src="https://ibb.co/1fm3JwF" height="100px">
 
- <img src="[https://ibb.co/b1mvdZQ]" height="100px">
+ <img src="https://ibb.co/b1mvdZQ" height="100px">
 
- <img src="[https://ibb.co/zPkhdYP]" height="100px">
+ <img src="https://ibb.co/zPkhdYP" height="100px">
 
 
 ```
