@@ -68,7 +68,7 @@ return [
 
 
 
-  ![My Image](sc/coach.png)
-  ![My Image](sc/available.png)
-  ![My Image](sc/appointment.png)
+  ![My_Image](sc/coach.png)
+  ![My_Image](sc/available.png)
+  ![My_Image](sc/appointment.png)
 ```
