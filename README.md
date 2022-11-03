@@ -41,14 +41,6 @@ INSTALLATION
 If you do not have [Composer](http://getcomposer.org/), you may install it by following the instructions
 at [getcomposer.org](http://getcomposer.org/doc/00-intro.md#installation-nix).
 
-You can then install this project template using the following command:
-
-
-
-
-You can then access the application through the following URL:
-
-
 
 ### Database
 
@@ -66,12 +58,12 @@ return [
  ### API DOCUMENT
   can be found in url https://documenter.getpostman.com/view/3378051/2s8YRpEW9P
 
-
- <img src="https://ibb.co/1fm3JwF" height="100px">
-
- <img src="https://ibb.co/b1mvdZQ" height="100px">
-
- <img src="https://ibb.co/zPkhdYP" height="100px">
+<p align="center">
+ <img src="https://ibb.co/1fm3JwF" height="100px"></p>
+<p align="center">
+ <img src="https://ibb.co/b1mvdZQ" height="100px"></p>
+<p align="center">
+ <img src="https://ibb.co/zPkhdYP" height="100px"></p>
 
 
 ```
