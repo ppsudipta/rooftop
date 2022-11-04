@@ -72,7 +72,7 @@ return [
  ![appointment](https://github.com/ppsudipta/rooftop/blob/master/sc/appointment.png?raw=true)
  
  
-  <img src="sc/available.png" height="100">
+
 
 
 
