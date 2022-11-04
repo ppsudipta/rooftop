@@ -61,9 +61,15 @@ return [
   
   some screenshot for api returns
   
- ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/coach.png?raw=true)
- ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/available.png?raw=true)
- ![alt text](https://github.com/ppsudipta/rooftop/blob/master/sc/appointment.png?raw=true)
+  
+  
+ ![coach](https://github.com/ppsudipta/rooftop/blob/master/sc/coach.png?raw=true)
+ 
+ 
+ ![avai](https://github.com/ppsudipta/rooftop/blob/master/sc/available.png?raw=true)
+ 
+ 
+ ![appointment](https://github.com/ppsudipta/rooftop/blob/master/sc/appointment.png?raw=true)
 
 
 
